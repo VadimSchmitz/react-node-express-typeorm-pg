@@ -27,6 +27,7 @@ export default function App() {
   <div>
     <p className="heading">Likes</p>
     <p className="title">789</p>
+    <p>asdasd</p>
   </div>
 </div>
 
