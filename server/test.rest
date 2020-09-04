@@ -1,0 +1,16 @@
+POST http://localhost:3000/users
+Content-Type: application/json
+
+{
+    "firstname":"test",
+    "lastname": "real asdasdas"
+}
+
+### 
+
+DELETE http://localhost:3000/users/2
+
+
+###
+
+GET http://localhost:3000/users
